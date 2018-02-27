@@ -1,0 +1,2 @@
+cd Aos/Server2
+./s
